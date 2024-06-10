@@ -32,11 +32,11 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/130
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-https://play1nm.hnyongshun.cn/live/ballbar_23420.m3u8
+https://hls.mszgjy.com/live/steam770/playlist.m3u8?k=9d4809d1a8d51cf96740741e3ce28d1c&t=1717902093
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
-https://hls.mszgjy.com/live/steam770/playlist.m3u8?k=b045fca3a88587b598fde7f70f9b1f1d&t=1717645020
+https://51f772b1ebf9cd641e0e43f96d207bb6.v.smtcdns.net/txycdn.video.qq.com/1379133402.m3u8?time=1717977936&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=674BAA9676E40499D2C78632C8B6402F7D50961838EAAD710DEC70BD5F66191A71647E8AD8D5D0E71FACFE139BECDE51EE19EB2270AC190CD91F43964D4D03792AE06655D45C851A6DE3E28D9E15CC0E0D6FF67F36CF0BA823620A739C2B143A41D27A3927202B4974ABE88095D77C67D98D73313D72DBE4&drmtype=0
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影

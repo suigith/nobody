@@ -34,13 +34,13 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/130
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 https://hls.mszgjy.com/live/steam770/playlist.m3u8?k=9d4809d1a8d51cf96740741e3ce28d1c&t=1717902093
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-
+https://hls.mszgjy.com/live/69494531/playlist.m3u8?k=619644aa5039087261e9823ab581977e&t=1718241674
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
-https://51f772b1ebf9cd641e0e43f96d207bb6.v.smtcdns.net/txycdn.video.qq.com/1379133402.m3u8?time=1717977936&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=674BAA9676E40499D2C78632C8B6402F7D50961838EAAD710DEC70BD5F66191A71647E8AD8D5D0E71FACFE139BECDE51EE19EB2270AC190CD91F43964D4D03792AE06655D45C851A6DE3E28D9E15CC0E0D6FF67F36CF0BA823620A739C2B143A41D27A3927202B4974ABE88095D77C67D98D73313D72DBE4&drmtype=0
+https://hls.mszgjy.com/live/steam770/playlist.m3u8?k=98e2b9db799bf98d4e05277c4743fe96&t=1718165985
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
